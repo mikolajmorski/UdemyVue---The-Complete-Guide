@@ -1,7 +1,7 @@
 const app = Vue.createApp({
   data() {
     return {
-      messageA: "<h2>Finish the course and learn Vue!</h2>",
+      messageA: "Finish the course and learn Vue!",
       messageB: "Master the Vue!",
       vueLink: "https://google.com/",
     };
